@@ -29,7 +29,7 @@ npm install cron --save
 - Easy to use and initilize.
 
 ```
-npm isntall twitter --save
+npm install twitter --save
 ```
 - More at [Github/Twitter](https://github.com/desmondmorris/node-twitter).
 
