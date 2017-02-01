@@ -52,5 +52,5 @@ Preferrably you can also use 'Forever' to run the script on background. Also it 
 forever start app.js
 ```
 --
-Connect with me
+
 [@prashant1207](https://twitter.com/prashant1207).
